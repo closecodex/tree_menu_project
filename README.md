@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Django](https://img.shields.io/badge/Django-4.2-green)
+
 # Django Tree Menu
 
 Приложение Django для отображения древовидного меню с гибкой настройкой через админку и кастомный template tag.
@@ -62,7 +65,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-## Откройте сайт: http://127.0.0.1:8000
+## Откройте сайт: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ## 🛠 Использование
 
